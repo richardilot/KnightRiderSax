@@ -1,6 +1,5 @@
 /*****************************
  * Name             : Richie Ilot
- * Student Number   : 470819
  * Description      : Knight Rider
  * Date of creation : 14/10/2019
  ******************************/
